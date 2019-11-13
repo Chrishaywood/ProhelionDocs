@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://chrishaywood.github.io/ProhelionDocs/
+      external_url: https://github.com/Chrishaywood/ProhelionDocs
     - title: News
       url: /news
 
