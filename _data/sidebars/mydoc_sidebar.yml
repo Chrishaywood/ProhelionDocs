@@ -72,12 +72,12 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: ArrowPoint Android
     output: web, pdf
 
     folderitems:
-    - title: Pages
-      url: /mydoc_pages.html
+    - title: Overview
+      url: /mydoc_androidTablet.html
       output: web, pdf
 
     - title: Posts
