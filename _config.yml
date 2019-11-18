@@ -9,7 +9,7 @@ topnav_title: Prohelion Documentation
 site_title: Prohelion Docs
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Prohelion
+company_name: Prohelion Pty Ltd
 # this appears in the footer
 
 github_editme_path: Chrishaywood/ProhelionDocs/blob/master/
@@ -18,7 +18,7 @@ github_editme_path: Chrishaywood/ProhelionDocs/blob/master/
 # gitlab_editme_path: Chrishaywood/ProhelionDocs/blob/master/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-disqus_shortname: Prohelion
+disqus_shortname: 
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
 google_analytics: 
