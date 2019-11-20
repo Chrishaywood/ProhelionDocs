@@ -7,7 +7,6 @@ topnav:
       external_url: https://github.com/Chrishaywood/ProhelionDocs
     - title: News
       url: /news
-      type: homepage
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -15,9 +14,9 @@ topnav_dropdowns:
   folders:
     - title: Products
       folderitems:
-        - title: Product 1
-          url: /mydoc_introduction.html
-        - title: Product 2
+        - title: ArrowPoint Android
+          url: /androidTablet_overview.html
+        - title: ArrowPoint Telemetry
           url: /p1_landing_page.html
-        - title: Product 3
+        - title: ArrowPoint CANbus Tools
           url: /p2_landing_page.html
