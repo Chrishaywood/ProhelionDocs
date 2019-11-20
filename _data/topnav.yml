@@ -7,6 +7,7 @@ topnav:
       external_url: https://github.com/Chrishaywood/ProhelionDocs
     - title: News
       url: /news
+      type: homepage
 
 #Topnav dropdowns
 topnav_dropdowns:
