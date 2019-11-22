@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: ArrowPoint Android
+  product: ArrowPoint Suite
   version: 0.1
   folders:
 
@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: ArrowPoint Android
     output: web, pdf
     folderitems:
 
@@ -35,30 +35,47 @@ entries:
       url: /ArrowAndroid_Development.html
       output: web, pdf
 
-  - title: Features
+      subfolders:
+      - title: Features
+        output: web, pdf
+        subfolderitems:
+
+        - title: Driver Dashboard
+          url: /ArrowAndroid_Dashboard.html
+          output: web, pdf
+
+        - title: Solar Energy Dashboard
+          url: /ArrowAndroid_Solar.html
+          output: web, pdf
+
+        - title: System Details & Customisable Alerts
+          url: /ArrowAndroid_SystemDetails.html
+          output: web, pdf
+
+        - title: Private Messaging Between Cars
+          url: /ArrowAndroid_Messaging.html
+          output: web, pdf
+
+        - title: Graphing Dashboard
+          url: /ArrowAndroid_Graphing.html
+          output: web, pdf
+
+        - title: Basic GPS Tracking
+          url: /ArrowAndroid_GPS.html
+          output: web, pdf
+  
+  - title: ArrowPoint CANbus
     output: web, pdf
-
     folderitems:
-    - title: Driver Dashboard
-      url: /ArrowAndroid_Dashboard.html
+    
+    - title: Introduction
+      url: /ArrowCANbus_Overview.html
       output: web, pdf
 
-    - title: Solar Energy Dashboard
-      url: /ArrowAndroid_Solar.html
+    - title: Setup
+      url: /ArrowCANbus_Setup.html
       output: web, pdf
 
-    - title: System Details & Customisable Alerts
-      url: /ArrowAndroid_SystemDetails.html
-      output: web, pdf
-
-    - title: Private Messaging Between Cars
-      url: /ArrowAndroid_Messaging.html
-      output: web, pdf
-
-    - title: Graphing Dashboard
-      url: /ArrowAndroid_Graphing.html
-      output: web, pdf
-
-    - title: Basic GPS Tracking
-      url: /ArrowAndroid_GPS.html
+    - title: Development
+      url: /ArrowCANbus_Development.html
       output: web, pdf
