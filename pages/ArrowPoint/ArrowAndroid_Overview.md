@@ -1,17 +1,17 @@
 ---
 title: ArrowPoint Android
-tags: [getting_started, formatting, content_types]
-keywords: pages, authoring, exclusion, frontmatter
-last_updated: July 16, 2016
+tags: [ArrowPoint, Dashboard, Overview]
+keywords: ArrowPoint, Dashboard, Overview
+last_updated: November 22, 2019
 summary: "The ArrowPoint for Android Solution is an Android App designed to receive and display telemetry information from an WiFi access point in real time. It is a very useful tool in a race environment as every team member can have a copy installed on their own phone or tablet and get instant insights in to the performance of the vehicle."
 sidebar: mydoc_sidebar
-permalink: androidTablet_overview.html
+permalink: ArrowAndroid_Overview.html
 folder: mydoc
 ---
 
 The ArrowPoint for Android Solution is an Android App designed to receive and display telemetry information from an WiFi access point in real time. It is a very useful tool in a race environment as every team member can have a copy installed on their own phone or tablet and get instant insights in to the performance of the vehicle.
 
-{% include image.html file="android_dashboard.png" url="http://jekyllrb.com" alt="android_dashboard" caption="Example of the Arrowpoint Dashboard" %}
+{% include image.html file="android_dashboard.png" alt="android_dashboard" caption="Example of the Arrowpoint Dashboard" %}
 
 The out of the box implementation is designed for use in Solar or Electric racing cars that use technology from [Prohelion](http://Prohelion.com) or [Tritium](http://Tritium.com). This solution was originally developed by [TeamArrow](http://www.teamarrow.com.au/) and has been used in racing environments since 2015. [TeamArrow](http://www.teamarrow.com.au/) continue to use this application both as the in car dashboard as well as a solution for the entire fleet to communicate and monitor the car.
 

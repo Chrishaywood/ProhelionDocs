@@ -1,12 +1,12 @@
 ---
 title: ArrowPoint Android - Setup
-tags: [getting_started, formatting, content_types]
-keywords: pages, authoring, exclusion, frontmatter
-last_updated: July 16, 2016
+tags: [ArrowPoint, Dashboard, Setup]
+keywords: ArrowPoint, Dashboard, Setup
+last_updated: November 22, 2019
 summary:
 sidebar: mydoc_sidebar
-permalink: androidTablet_setup.html
-folder: mydoc
+permalink: ArrowAndroid_Setup.html
+folder: ArrowPoint
 ---
 
 ## Installation on the Tablet or Phone

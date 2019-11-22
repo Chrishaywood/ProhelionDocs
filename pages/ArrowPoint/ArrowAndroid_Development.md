@@ -1,12 +1,12 @@
 ---
 title: ArrowPoint Android - development
-tags: [getting_started, formatting, content_types]
-keywords: pages, authoring, exclusion, frontmatter
-last_updated: July 16, 2016
+tags: [ArrowPoint, Dashboard, Development]
+keywords: ArrowPoint, Dashboard, Development
+last_updated: November 22, 2019
 summary:
 sidebar: mydoc_sidebar
-permalink: androidTablet_development.html
-folder: mydoc
+permalink: ArrowAndroid_Development.html
+folder: ArrowPoint
 ---
 
 ## Compilation and Development
