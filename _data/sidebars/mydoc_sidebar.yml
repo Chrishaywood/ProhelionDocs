@@ -39,7 +39,7 @@ entries:
       - title: Features
         output: web, pdf
         subfolderitems:
-
+          
         - title: Driver Dashboard
           url: /ArrowAndroid_Dashboard.html
           output: web, pdf
@@ -61,6 +61,67 @@ entries:
           output: web, pdf
 
         - title: Basic GPS Tracking
+          url: /ArrowAndroid_GPS.html
+          output: web, pdf
+
+  - title: ArrowPoint Telemetry
+    output: web, pdf
+    folderitems:
+    
+    - title: Introduction
+      url: /ArrowTelemetry_Setup.html
+      output: web, pdf
+
+    - title: Setup
+      url: /ArrowCANbus_Setup.html
+      output: web, pdf
+
+    - title: Development
+      url: /ArrowCANbus_Development.html
+      output: web, pdf
+
+      subfolders:
+      - title: Features
+        output: web, pdf
+        subfolderitems:
+
+        - title: Telemetry Capture
+          url: /ArrowAndroid_Dashboard.html
+          output: web, pdf
+
+        - title: Telemetry Reporting
+          url: /ArrowAndroid_Solar.html
+          output: web, pdf
+
+        - title: GPS Integration
+          url: /ArrowAndroid_SystemDetails.html
+          output: web, pdf
+
+        - title: Weather Systems Integration
+          url: /ArrowAndroid_Messaging.html
+          output: web, pdf
+
+        - title: Realtime Alerting
+          url: /ArrowAndroid_Graphing.html
+          output: web, pdf
+
+        - title: Hybrid Cloud Instance Clustering
+          url: /ArrowAndroid_GPS.html
+          output: web, pdf
+          
+        - title: Fleet Broadcasting of Telemetry Data
+          url: /ArrowAndroid_Messaging.html
+          output: web, pdf
+
+        - title: Bulk Importing
+          url: /ArrowAndroid_Graphing.html
+          output: web, pdf
+
+        - title: Microservice Based Architecture
+          url: /ArrowAndroid_GPS.html
+          output: web, pdf
+
+        - title: Security
           url: /ArrowAndroid_GPS.html
           output: web, pdf
   

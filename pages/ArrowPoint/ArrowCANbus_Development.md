@@ -19,7 +19,7 @@ You have two options to build the code, either load the project in Visual Studio
 in the root level source code directory. Information on running msbuild can be found on the Microsoft Visual Studio Website.
 
 ```shell
-console.log('hello');
+msbuild;
 ```
 
 ## Issues or Suggestions
