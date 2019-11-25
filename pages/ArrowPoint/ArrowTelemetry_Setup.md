@@ -9,13 +9,14 @@ permalink: ArrowTelemetry_Setup.html
 folder: ArrowPoint
 ---
 
+## Introduction
 The ArrowPoint Telemetry system is designed to very light weight in terms of physical infrastructure.
 
 In a race environment TeamArrow runs the entire system on a single i7 laptop with an SSD hard drive. However, since the solution does store substantial amounts of information we would recommend at a minimum a 256GB SSD with 100GB free storage for a race environment.
 
 The system has been tested on Windows 10 and Amazon EC2 Unix, but should run on any form of Unix that supports Docker (including Apple Laptops). As the system is passive apart from a couple of key features, it is possible to run two instances of the solution on two laptops and achieve high availability. Laptops make much more sense than dedicated hardware or PCs in a race environment as the battery in a laptop is fundamentally built in and the power supply problems are much simpler in a chase car when running low power electronics.
 
-Pre-requirements
+## Pre-requirements
 
 Windows 10 or Linux OS
 
@@ -33,7 +34,7 @@ Spring Tool Suite – If you want to change the code or contribute to the projec
 
 
 
-Docker based Install
+## Docker based Install
 
 The software infrastructure required to run the ArrowPoint Telemetry system is complex and the simplest way to install the solution is using Docker. Docker is a container management solution designed to provide containers for applications or in our case application components such as a database or Splunk. The containers then run on a docker instance which is installed on your PC. Prohelion has prepared Docker containers with the right setup for your database and Splunk configuration. While you can setup these manually, it’s complex and we wouldn’t recommended it. If you are not wanting to use Docker then please see the Docker Free Installation information below.
 
@@ -47,10 +48,11 @@ docker-compose.yml
 
 This file contains the configuration information to run the software in Docker.
 
-Known Issue:
+## Known Issue:
 
 Docker does not support UDP traffic on its virtual network. As such the telemetry system cannot receive traffic from the CANbus devices such as the Tritum Wavesculpter. To get around this issue the infrastructure required to run the Telemetry system runs in Docker apart from the core application which runs as a stand alone Spring Boot Application and hence can access the UDP network directly.
 
+## Installation Steps
 
 <table>
 <colgroup>

@@ -8,7 +8,7 @@ sidebar: mydoc_sidebar
 permalink: ArrowTelemetry_Overview.html
 folder: ArrowPoint
 ---
-
+## Introduction
 The ArrowPoint Telemetry Solution is designed to provide telemetry capture and management information for managing a race car.
 
 The out of the box implementation is designed for use in Solar or Electric racing cars that use technology from Prohelion or Tritium. This solution was originally developed by TeamArrow and has been used in racing environments since 2013. TeamArrow continue to use this application as the heart of its telemetry and strategy management solutions.
@@ -21,9 +21,7 @@ The ArrowPoint-Telemetry system is very light weight (considering what it is doi
 
 Examples of the software in use can be seen here - https://www.youtube.com/watch?reload=9&v=lWkXEb8v1tk
 
-If you are interested in contributing to the solution, please see our contribution file here
-https://github.com/Prohelion/ArrowPoint-Telemetry/blob/master/CONTRIBUTING.md
-
+## Features
 For the full feature list see the Telemetry System Features page, but at a high level the application provides
 
 CANbus data capture and reporting either directly off the car, via the ArrowPoint-Tablet or a JSON stream

@@ -69,15 +69,23 @@ entries:
     folderitems:
     
     - title: Introduction
-      url: /ArrowTelemetry_Setup.html
+      url: /ArrowTelemetry_Overview.html
       output: web, pdf
 
     - title: Setup
-      url: /ArrowCANbus_Setup.html
+      url: /ArrowTelemetry_Setup.html
+      output: web, pdf
+
+    - title: Configuration
+      url: /ArrowTelemetry_Config.html
+      output: web, pdf
+
+    - title: Usage
+      url: /ArrowTelemetry_Usage.html
       output: web, pdf
 
     - title: Development
-      url: /ArrowCANbus_Development.html
+      url: /ArrowTelemetry_Development.html
       output: web, pdf
 
       subfolders:
