@@ -93,44 +93,56 @@ entries:
         output: web, pdf
         subfolderitems:
 
-        - title: Telemetry Capture
-          url: /ArrowAndroid_Dashboard.html
-          output: web, pdf
-
         - title: Telemetry Reporting
-          url: /ArrowAndroid_Solar.html
+          url: /ArrowTelemetry_Reporting.html
           output: web, pdf
 
-        - title: GPS Integration
-          url: /ArrowAndroid_SystemDetails.html
-          output: web, pdf
-
-        - title: Weather Systems Integration
-          url: /ArrowAndroid_Messaging.html
+        - title: Integration with Splunk
+          url: /ArrowTelemetry_Splunk.html
           output: web, pdf
 
         - title: Realtime Alerting
-          url: /ArrowAndroid_Graphing.html
+          url: /ArrowTelemetry_Alerting.html
+          output: web, pdf
+
+        - title: Weather Systems Integration
+          url: /ArrowTelemetry_WeatherIntegration.html
+          output: web, pdf
+
+        - title: GPS Integration
+          url: /ArrowTelemetry_GPSIntegration.html
+          output: web, pdf
+
+        - title: Telemetry Capture
+          url: /ArrowTelemetry_Capture.html
+          output: web, pdf
+
+        - title: Google Earth Integration
+          url: /ArrowTelemetry_GoogleEarth.html
           output: web, pdf
 
         - title: Hybrid Cloud Instance Clustering
-          url: /ArrowAndroid_GPS.html
+          url: /ArrowTelemetry_HybridCloud.html
+          output: web, pdf
+
+        - title: Fleet Private Messaging
+          url: /ArrowTelemetry_FleetMessaging.html
           output: web, pdf
           
         - title: Fleet Broadcasting of Telemetry Data
-          url: /ArrowAndroid_Messaging.html
+          url: /ArrowTelemetry_FleetBroadcasting.html
           output: web, pdf
 
         - title: Bulk Importing
-          url: /ArrowAndroid_Graphing.html
+          url: /ArrowTelemetry_BulkImporting.html
           output: web, pdf
 
         - title: Microservice Based Architecture
-          url: /ArrowAndroid_GPS.html
+          url: /ArrowTelemetry_Microservice.html
           output: web, pdf
 
         - title: Security
-          url: /ArrowAndroid_GPS.html
+          url: /ArrowTelemetry_Security.html
           output: web, pdf
   
   - title: ArrowPoint CANbus

@@ -4,6 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
+toc: false
 summary: Prohelion builds high powered, ultra light weight, mobile energy solutions, to power the vehicles and minds of the future.
 ---
 

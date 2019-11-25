@@ -18,12 +18,12 @@ entries:
   - title: Products
     output: web, pdf
     folderitems:
-    - title: Arrowpoint Android
-      url: /androidTablet_overview.html
+    - title: Arrowpoint Software
+      url: /ArrowAndroid_Overview.html
       output: web
-    - title: ArrowPoint Telemetry
+    - title: I.M.P.S.
       url: /p1_landing_page.html
       output: web
-    - title: ArrowPoint CANbus Tools
+    - title: Product 3
       url: /p2_landing_page.html
       output: web
