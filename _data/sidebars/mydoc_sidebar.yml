@@ -160,3 +160,7 @@ entries:
     - title: Development
       url: /ArrowCANbus_Development.html
       output: web, pdf
+
+  - title: Software Troubleshooting
+    url: /Arrow_SoftwareTroubleshooting.html
+    output: web, pdf

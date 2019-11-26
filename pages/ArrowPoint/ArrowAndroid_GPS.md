@@ -3,7 +3,7 @@ title: ArrowPoint Android Dashboard
 tags: [ArrowPoint, Dashboard, GPS]
 keywords: ArrowPoint, Dashboard, GPS
 last_updated: November 22, 2019
-summary: 
+summary: "Reports on the vehicles current latitude and longitude"
 sidebar: mydoc_sidebar
 permalink: ArrowAndroid_GPS.html
 folder: ArrowPoint

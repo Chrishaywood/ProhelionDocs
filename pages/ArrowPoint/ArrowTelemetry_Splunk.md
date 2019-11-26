@@ -13,6 +13,6 @@ If enabled in the Configuration the Telemetry system will send data to splunk fo
 
 {% include image.html file="telemetry_analysis.png" alt="telemetry_analysis" caption="Example of the Arrowpoint Dashboard" %}
 
-Splunk is a commercial product and typically requires a commercial license for larger data sets. TeamArrow applies for the Splunk 4 Good program, which provides free Splunk licenses to organisations that are seeing to do non commercial based activities.
+Splunk is a commercial product and typically requires a commercial license for larger data sets. TeamArrow applies for the [Splunk 4 Good program](https://www.splunk.com/en_us/about-us/splunk4good.html), which provides free Splunk licenses to organisations that are seeing to do non commercial based activities.
 
 {% include links.html %}

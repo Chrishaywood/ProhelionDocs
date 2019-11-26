@@ -13,7 +13,7 @@ The telemetry system allows you to do basic reporting by selecting the device th
 
 {% include image.html file="telemetry_reporting.png" alt="telemetry_reporting" caption="Example of the Telemetry Reporting" %}
 
-Note that for more advanced reporting we would suggest using the Integration with Splunk which allows you to do very complex and rich reporting.
+Note that for more advanced reporting we would suggest using the [Integration with Splunk](ArrowTelemetry_Splunk.html) which allows you to do very complex and rich reporting.
 
  
 {% include links.html %}

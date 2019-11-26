@@ -12,7 +12,7 @@ The Telemetry system has the ability to be connected to an external light that c
 
 Alerting is done via a visual cue using USB HID Visual Signal Indicators from Delcom Products
 
-https://www.delcomproducts.com/productdetails.asp?PartNumber=904007
+[https://www.delcomproducts.com/productdetails.asp?PartNumber=904007](https://www.delcomproducts.com/productdetails.asp?PartNumber=904007)
 
 {% include image.html file="telemetry_BeaconBlackSide.jpg" alt="telemetry_BeaconBlackSide" caption="Beacon Black Side" %}
 
