@@ -3,13 +3,13 @@ title: ArrowPoint Android Dashboard
 tags: [getting_started, formatting, content_types]
 keywords: ArrowPoint, Dashboard
 last_updated: November 22, 2019
-summary: 
+summary: "A driver dashboard that can be used in the solar car or the chase / lead cars to show all relevant information needed to drive and monitor the vehicle at a high level, including alerts"
 sidebar: mydoc_sidebar
 permalink: ArrowAndroid_Dashboard.html
 folder: ArrowPoint
 ---
 
-The Driver Dashboard as the name suggests is designed to provide information to the driver. In the Arrow1 TeamArrow used this system as the actual dashboard in the car. If Customisable Alerts are triggered in the App software these are also shown on the screen so the driver has instant notification of an issue.
+The Driver Dashboard as the name suggests is designed to provide information to the driver. In the Arrow1 TeamArrow used this system as the actual dashboard in the car. If [Customisable Alerts](ArrowAndroid_SystemDetails.html) are triggered in the App software these are also shown on the screen so the driver has instant notification of an issue.
 
 {% include image.html file="android_dashboard.png" alt="android_dashboard" caption="Example of the Arrowpoint Dashboard" %}
 

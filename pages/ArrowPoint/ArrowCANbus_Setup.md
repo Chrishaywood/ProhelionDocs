@@ -8,7 +8,7 @@ sidebar: mydoc_sidebar
 permalink: ArrowCANbus_Setup.html
 folder: ArrowPoint
 ---
-
+## Installation
 Installation of the ArrowPoint-CANbus tools can be achieved simply by running the ArrowPointDiagnosticTool.exe in the following directory: 
 
 \ArrowWareDiagnosticTool\bin\Debug 
@@ -17,7 +17,7 @@ or
 
 \ArrowWareDiagnosticTool\bin\Run directories
 
-Usage
+## Usage
 The tool is relatively simple to use. Log in and connect to the CANbus network, typically the default settings will work fine.
 
 {% include image.html file="canbus_settings.png" alt="canbus_settings" caption="CANbus settings" %}

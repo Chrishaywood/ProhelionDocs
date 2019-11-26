@@ -73,7 +73,7 @@ The Telemetry system is configured via the use of a properties file which is sto
 | can.loader.pattern = *.csv |Extension of the CANbus files |
 | can.loader.poll.interval = 5000 | How often should the system check this folder for bulk loads |
 | | |
-| **Infrastructure Configuration** | These settings should only be changed if you are looking to change how the application itself behaves, they do not change the functional behaviour of the application. The Spring Boot Documentation is the best source of information on these settings |
+| **Infrastructure Configuration** | These settings should only be changed if you are looking to change how the application itself behaves, they do not change the functional behaviour of the application. The [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html) is the best source of information on these settings |
 | spring.application.name=Prohelion Telemetry |  |
 | spring.mvc.favicon.enabled = false |  |
 | server.port = 9000 |  |
@@ -148,13 +148,13 @@ insert into data_pnt(DATA_PNT_ID, DATA_PNT_CAN_ID, NAME, DESCR, DATA_LEN, CAN_DA
 Once the changes have been made, you will need to rebuild your docker file using **/docker/TimescaleDB/build.cmd** and then restart the application. What we should now see is that the information shows up in the menu and options like so.
 
 ## Changing the CANbus ID's in Splunk
-Splunk uses a lookup table to convert raw CANbus Ids to text names. Currently if you change your CANbus IDs then you will need to regenerate this lookup file and provide it to Splunk. You can do this buy running the following SQL against the timescaledb database from within PgAdmin which you can access via http://localhost:5080.
+Splunk uses a lookup table to convert raw CANbus Ids to text names. Currently if you change your CANbus IDs then you will need to regenerate this lookup file and provide it to Splunk. You can do this buy running the following SQL against the timescaledb database from within PgAdmin which you can access via [http://localhost:5080](http://localhost:5080).
 
 ```
 SELECT data_pnt_can_id, data_pnt_name, dev_name, msrmnt_name FROM public.splunk_lookup_data;
 ```
 
-The resulting file should be exported saved as DataPoint_CanID.csv and then loaded in to Splunk in the data lookup table files menu http://localhost:8000/en-GB/manager/launcher/data/lookup-table-files.
+The resulting file should be exported saved as DataPoint_CanID.csv and then loaded in to Splunk in the data lookup table files menu [http://localhost:8000/en-GB/manager/launcher/data/lookup-table-files](http://localhost:8000/en-GB/manager/launcher/data/lookup-table-files).
 
 An example file is included with the code in the directory \ArrowPoint-Telemetry\config\lookups if you are looking for an example of how this file should appear.
 
