@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Telemetry - Setup
-tags: [ArrowPoint, Telemetry, Setup]
-keywords: ArrowPoint, Telemetry, Setup
+title: ArrowPoint Telemetry Weather Integration
+tags: [ArrowPoint, Telemetry, Weather]
+keywords: ArrowPoint, Telemetry, Weather
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "Weather data can be fed directly in to the system and used to support strategy decisions"
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_WeatherIntegration.html
 folder: ArrowPoint
 ---

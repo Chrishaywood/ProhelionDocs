@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint CANbus
+title: ArrowPoint CANbus Setup
 tags: [ArrowPoint, CANbus, Setup]
 keywords: ArrowPoint, CANbus, Setup
 last_updated: November 22, 2019
 summary: 
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowCANbus_Setup.html
 folder: ArrowPoint
 ---

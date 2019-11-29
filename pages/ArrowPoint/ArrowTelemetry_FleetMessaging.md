@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Telemetry - Setup
-tags: [ArrowPoint, Telemetry, Setup]
-keywords: ArrowPoint, Telemetry, Setup
+title: ArrowPoint Telemetry Fleet Messaging
+tags: [ArrowPoint, Telemetry, Fleet_Messaging]
+keywords: ArrowPoint, Telemetry, Fleet_Messaging
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "Communicate with your entire fleet (including the solar car) using secure instant messaging style communications with the ArrowPoint tablet solution."
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_FleetMessaging.html
 folder: ArrowPoint
 ---

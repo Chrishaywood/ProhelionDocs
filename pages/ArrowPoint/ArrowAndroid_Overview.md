@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Android
-tags: [ArrowPoint, Dashboard, Overview]
-keywords: ArrowPoint, Dashboard, Overview
+title: ArrowPoint Android Overview
+tags: [ArrowPoint, Android, Overview]
+keywords: ArrowPoint, Android, Overview
 last_updated: November 22, 2019
 summary: 
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowAndroid_Overview.html
 folder: ArrowPoint
 ---

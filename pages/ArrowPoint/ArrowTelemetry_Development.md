@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Telemetry - Setup
-tags: [ArrowPoint, Telemetry, Setup]
-keywords: ArrowPoint, Telemetry, Setup
+title: ArrowPoint Telemetry Development
+tags: [ArrowPoint, Telemetry, Development]
+keywords: ArrowPoint, Telemetry, Development 
 last_updated: November 22, 2019
 summary:
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_Development.html
 folder: ArrowPoint
 ---

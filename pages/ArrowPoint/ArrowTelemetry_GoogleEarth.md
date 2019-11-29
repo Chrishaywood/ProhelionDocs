@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Telemetry - Setup
-tags: [ArrowPoint, Telemetry, Setup]
-keywords: ArrowPoint, Telemetry, Setup
+title: ArrowPoint Telemetry Google Earth
+tags: [ArrowPoint, Telemetry, Google Earth]
+keywords: ArrowPoint, Telemetry, Google Earth
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "Output your location and strategy on to Google Earth maps. This is super useful when plotting strategy and trying to figure out where you are going to camp at 5pm or when you are going to hit a checkpoint."
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_GoogleEarth.html
 folder: ArrowPoint
 ---

@@ -3,13 +3,7 @@
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
   - ArrowPoint
-  - Dashboard
-  - navigation
-  - formatting
-  - publishing
-  - single_sourcing
-  - special_layouts
-  - collaboration
-  - news
-  - troubleshooting
-  - mobile
+  - Telemetry
+  - Android
+  - CANbus
+  - Development

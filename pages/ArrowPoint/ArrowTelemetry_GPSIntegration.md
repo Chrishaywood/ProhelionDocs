@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Telemetry - GPS
+title: ArrowPoint Telemetry GPS
 tags: [ArrowPoint, Telemetry, GPS]
 keywords: ArrowPoint, Telemetry, GPS
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "Integrate with GPS data so where you can see exactly where you are in realtime and plan strategy accordingly"
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_GPSIntegration.html
 folder: ArrowPoint
 ---

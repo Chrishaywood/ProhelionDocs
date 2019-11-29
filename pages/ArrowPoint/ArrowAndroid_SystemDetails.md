@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Android Dashboard
-tags: [ArrowPoint, Dashboard, System Details]
-keywords: ArrowPoint, Dashboard, System Details
+title: ArrowPoint Android System Details
+tags: [ArrowPoint, Android, System Details]
+keywords: ArrowPoint, Android, System Details
 last_updated: November 22, 2019
 summary: "Shows all of the key system details around what the state of the vehicle is and the temperature and performance of key systems"
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowAndroid_SystemDetails.html
 folder: ArrowPoint
 ---

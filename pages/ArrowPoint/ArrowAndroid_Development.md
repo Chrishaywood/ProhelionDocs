@@ -1,10 +1,10 @@
 ---
-title: ArrowPoint Android - development
-tags: [ArrowPoint, Dashboard, Development]
-keywords: ArrowPoint, Dashboard, Development
+title: ArrowPoint Android Development
+tags: [ArrowPoint, Android, Development]
+keywords: ArrowPoint, Android, Development
 last_updated: November 22, 2019
 summary:
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowAndroid_Development.html
 folder: ArrowPoint
 ---
