@@ -1,8 +1,8 @@
 ---
-title: "Formatting pages"
-tagName: formatting
+title: "CANbus pages"
+tagName: CANbus
 search: exclude
-permalink: tag_formatting.html
+permalink: tag_CANbus.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint CANbus
+title: ArrowPoint CANbus Development
 tags: [ArrowPoint, CANbus, Development]
 keywords: ArrowPoint, CANbus, Development
 last_updated: November 22, 2019

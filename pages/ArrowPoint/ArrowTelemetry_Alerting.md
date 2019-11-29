@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - Alerting
+title: ArrowPoint Telemetry Alerting
 tags: [ArrowPoint, Telemetry, Alerting]
 keywords: ArrowPoint, Telemetry, Alerting
 last_updated: November 22, 2019

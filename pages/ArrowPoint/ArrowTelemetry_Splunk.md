@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - Splunk
+title: ArrowPoint Telemetry Splunk
 tags: [ArrowPoint, Telemetry, Splunk]
 keywords: ArrowPoint, Telemetry, Splunk
 last_updated: November 22, 2019

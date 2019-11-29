@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - GPS
+title: ArrowPoint Telemetry GPS
 tags: [ArrowPoint, Telemetry, GPS]
 keywords: ArrowPoint, Telemetry, GPS
 last_updated: November 22, 2019

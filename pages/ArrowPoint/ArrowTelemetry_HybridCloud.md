@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - HybridCloud
+title: ArrowPoint Telemetry HybridCloud
 tags: [ArrowPoint, Telemetry, HybridCloud]
 keywords: ArrowPoint, Telemetry, HybridCloud
 last_updated: November 22, 2019

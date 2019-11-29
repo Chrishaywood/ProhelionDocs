@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - Broadcasting
+title: ArrowPoint Telemetry Broadcasting
 tags: [ArrowPoint, Telemetry, Broadcasting]
 keywords: ArrowPoint, Telemetry, Broadcasting
 last_updated: November 22, 2019

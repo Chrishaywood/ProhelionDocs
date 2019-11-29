@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - Security
+title: ArrowPoint Telemetry Security
 tags: [ArrowPoint, Telemetry, Security]
 keywords: ArrowPoint, Telemetry, Security
 last_updated: November 22, 2019

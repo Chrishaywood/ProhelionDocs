@@ -1,7 +1,7 @@
 ---
 title: ArrowPoint Android Dashboard
-tags: [getting_started, formatting, content_types]
-keywords: ArrowPoint, Dashboard
+tags: [ArrowPoint, Android, Dashboard]
+keywords: ArrowPoint, Android, Dashboard
 last_updated: November 22, 2019
 summary: "A driver dashboard that can be used in the solar car or the chase / lead cars to show all relevant information needed to drive and monitor the vehicle at a high level, including alerts"
 sidebar: mydoc_sidebar

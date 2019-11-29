@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - Capture
+title: ArrowPoint Telemetry Capture
 tags: [ArrowPoint, Telemetry, Capture]
 keywords: ArrowPoint, Telemetry, Capture
 last_updated: November 22, 2019

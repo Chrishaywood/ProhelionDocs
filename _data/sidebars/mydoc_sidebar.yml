@@ -161,6 +161,38 @@ entries:
       url: /ArrowCANbus_Development.html
       output: web, pdf
 
-  - title: Software Troubleshooting
-    url: /Arrow_SoftwareTroubleshooting.html
+  - title: Troubleshooting and Contributing
     output: web, pdf
+    folderitems:
+
+    - title: Troubleshooting
+      url: /Arrow_SoftwareTroubleshooting.html
+      output: web, pdf
+
+    - title: Contributing
+      url: /Arrow_Contributing.html
+      output: web, pdf
+
+  - title: Tag archives
+    output: web
+    folderitems:
+
+      - title: Android pages
+        url: /tag_Android.html
+        output: web
+
+      - title: Telemetry pages
+        url: /tag_Telemetry.html
+        output: web
+
+      - title: CANbus pages
+        url: /tag_CANbus.html
+        output: web
+
+      - title: ArrowPoint pages
+        url: /tag_ArrowPoint.html
+        output: web
+
+      - title: Development pages
+        url: /tag_Development.html
+        output: web

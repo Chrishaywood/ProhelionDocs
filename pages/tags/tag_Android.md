@@ -1,8 +1,8 @@
 ---
-title: "Publishing pages"
-tagName: publishing
+title: "Android pages"
+tagName: Android
 search: exclude
-permalink: tag_publishing.html
+permalink: tag_Android.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

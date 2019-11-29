@@ -1,7 +1,7 @@
 ---
-title: ArrowPoint Android Dashboard
-tags: [ArrowPoint, Dashboard, Private Messaging]
-keywords: ArrowPoint, Dashboard, Private Messaging
+title: ArrowPoint Android Private Messaging
+tags: [ArrowPoint, Android, Private_Messaging]
+keywords: ArrowPoint, Android, Private_Messaging
 last_updated: November 22, 2019
 summary: "Allows for private messaging between solar car, lead and chase car and the Telemetry system."
 sidebar: mydoc_sidebar

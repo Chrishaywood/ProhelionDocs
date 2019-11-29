@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint CANbus
+title: ArrowPoint CANbus Overview
 tags: [ArrowPoint, CANbus, Overview]
 keywords: ArrowPoint, CANbus, Overview
 last_updated: November 22, 2019

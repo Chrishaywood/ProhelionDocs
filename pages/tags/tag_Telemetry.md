@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "Telemetry pages"
+tagName: Telemetry
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_Telemetry.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

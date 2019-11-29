@@ -1,8 +1,8 @@
 ---
-title: "Navigation pages"
-tagName: navigation
+title: "ArrowPoint pages"
+tagName: ArrowPoint
 search: exclude
-permalink: tag_navigation.html
+permalink: tag_ArrowPoint.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

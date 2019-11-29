@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - Config
+title: ArrowPoint Telemetry Config
 tags: [ArrowPoint, Telemetry, Config]
 keywords: ArrowPoint, Telemetry, Config
 last_updated: November 22, 2019

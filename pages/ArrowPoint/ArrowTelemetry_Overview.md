@@ -1,7 +1,7 @@
 ---
-title: ArrowPoint Telemetry
-tags: [ArrowPoint, Dashboard, Telemetry]
-keywords: ArrowPoint, Dashboard, Telemetry
+title: ArrowPoint Telemetry, Overview
+tags: [ArrowPoint, Telemetry, Overview]
+keywords: ArrowPoint, Telemetry, Overview
 last_updated: November 22, 2019
 summary:
 sidebar: mydoc_sidebar

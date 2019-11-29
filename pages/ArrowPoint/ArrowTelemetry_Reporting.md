@@ -1,7 +1,7 @@
 ---
-title: ArrowPoint Telemetry - Setup
-tags: [ArrowPoint, Telemetry, Setup]
-keywords: ArrowPoint, Telemetry, Setup
+title: ArrowPoint Telemetry Reporting
+tags: [ArrowPoint, Telemetry, Reporting]
+keywords: ArrowPoint, Telemetry, Reporting
 last_updated: November 22, 2019
 summary:
 sidebar: mydoc_sidebar

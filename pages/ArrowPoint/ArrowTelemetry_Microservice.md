@@ -1,5 +1,5 @@
 ---
-title: ArrowPoint Telemetry - Microservice
+title: ArrowPoint Telemetry Microservice
 tags: [ArrowPoint, Telemetry, Microservice]
 keywords: ArrowPoint, Telemetry, Microservice
 last_updated: November 22, 2019

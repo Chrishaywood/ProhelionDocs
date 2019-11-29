@@ -1,7 +1,7 @@
 ---
-title: ArrowPoint Android Dashboard
-tags: [ArrowPoint, Dashboard, Graphing]
-keywords: ArrowPoint, Dashboard, Graphing
+title: ArrowPoint Android Graphing
+tags: [ArrowPoint, Android, Graphing]
+keywords: ArrowPoint, Android, Graphing
 last_updated: November 22, 2019
 summary: "Allows the realtime graphing of basic system information such as velocity or power consumption"
 sidebar: mydoc_sidebar

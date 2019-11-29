@@ -1,7 +1,7 @@
 ---
-title: ArrowPoint Telemetry - BulkImporting
-tags: [ArrowPoint, Telemetry, BulkImporting]
-keywords: ArrowPoint, Telemetry, BulkImporting
+title: ArrowPoint Telemetry Bulk Importing
+tags: [ArrowPoint, Telemetry, Bulk Importing]
+keywords: ArrowPoint, Telemetry, Bulk Importing
 last_updated: November 22, 2019
 summary:
 sidebar: mydoc_sidebar
