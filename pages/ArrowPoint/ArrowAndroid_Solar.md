@@ -4,7 +4,7 @@ tags: [ArrowPoint, Android, Solar]
 keywords: ArrowPoint, Android, Solar
 last_updated: November 22, 2019
 summary: "A dashboard showing solar input in to the car and net power position for the vehicle"
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowAndroid_Solar.html
 folder: ArrowPoint
 ---

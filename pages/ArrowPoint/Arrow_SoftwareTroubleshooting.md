@@ -4,7 +4,7 @@ tags: [ArrowPoint, Troubleshooting]
 keywords: ArrowPoint, Troubleshooting
 last_updated: November 22, 2019
 summary:
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: Arrow_SoftwareTroubleshooting.html
 folder: ArrowPoint
 ---

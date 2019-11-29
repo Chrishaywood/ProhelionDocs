@@ -4,7 +4,7 @@ tags: [ArrowPoint, Telemetry, Usage]
 keywords: ArrowPoint, Telemetry, Usage
 last_updated: November 22, 2019
 summary:
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_Usage.html
 folder: ArrowPoint
 ---

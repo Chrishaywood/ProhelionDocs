@@ -3,8 +3,8 @@ title: ArrowPoint Telemetry Broadcasting
 tags: [ArrowPoint, Telemetry, Broadcasting]
 keywords: ArrowPoint, Telemetry, Broadcasting
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "Data that is captured in the chase car such as GPS data and Weather Data is broadcast to the entire fleet so that it can be see on the tablets."
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_FleetBroadcasting.html
 folder: ArrowPoint
 ---

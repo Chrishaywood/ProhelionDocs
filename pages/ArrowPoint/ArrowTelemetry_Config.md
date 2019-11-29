@@ -4,7 +4,7 @@ tags: [ArrowPoint, Telemetry, Config]
 keywords: ArrowPoint, Telemetry, Config
 last_updated: November 22, 2019
 summary:
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_Config.html
 folder: ArrowPoint
 ---

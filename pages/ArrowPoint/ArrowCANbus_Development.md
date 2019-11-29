@@ -4,7 +4,7 @@ tags: [ArrowPoint, CANbus, Development]
 keywords: ArrowPoint, CANbus, Development
 last_updated: November 22, 2019
 summary: 
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowCANbus_Development.html
 folder: ArrowPoint
 ---

@@ -3,8 +3,8 @@ title: ArrowPoint Telemetry Capture
 tags: [ArrowPoint, Telemetry, Capture]
 keywords: ArrowPoint, Telemetry, Capture
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "The system captures and stores CANbus data from a configurable range of devices in the car."
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_Capture.html
 folder: ArrowPoint
 ---

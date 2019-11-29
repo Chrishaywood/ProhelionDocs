@@ -3,8 +3,8 @@ title: ArrowPoint Telemetry HybridCloud
 tags: [ArrowPoint, Telemetry, HybridCloud]
 keywords: ArrowPoint, Telemetry, HybridCloud
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "ArrowPoint Telemetry supports complex physical configurations, including in chase car, cloud and hybrid configurations"
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_HybridCloud.html
 folder: ArrowPoint
 ---

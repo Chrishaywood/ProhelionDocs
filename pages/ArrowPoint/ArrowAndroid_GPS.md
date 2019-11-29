@@ -4,7 +4,7 @@ tags: [ArrowPoint, Android, GPS]
 keywords: ArrowPoint, Android, GPS
 last_updated: November 22, 2019
 summary: "Reports on the vehicles current latitude and longitude"
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowAndroid_GPS.html
 folder: ArrowPoint
 ---

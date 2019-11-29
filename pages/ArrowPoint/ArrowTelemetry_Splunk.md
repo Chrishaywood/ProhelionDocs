@@ -3,8 +3,8 @@ title: ArrowPoint Telemetry Splunk
 tags: [ArrowPoint, Telemetry, Splunk]
 keywords: ArrowPoint, Telemetry, Splunk
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "Report across massive datasets in near realtime using Splunk"
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_Splunk.html
 folder: ArrowPoint
 ---

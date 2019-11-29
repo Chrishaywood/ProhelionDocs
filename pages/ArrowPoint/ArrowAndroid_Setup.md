@@ -4,7 +4,7 @@ tags: [ArrowPoint, Android, Setup]
 keywords: ArrowPoint, Android, Setup
 last_updated: November 22, 2019
 summary:
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowAndroid_Setup.html
 folder: ArrowPoint
 ---

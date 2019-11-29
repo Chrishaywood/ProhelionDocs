@@ -4,7 +4,7 @@ tags: [ArrowPoint, Android, Development]
 keywords: ArrowPoint, Android, Development
 last_updated: November 22, 2019
 summary:
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowAndroid_Development.html
 folder: ArrowPoint
 ---

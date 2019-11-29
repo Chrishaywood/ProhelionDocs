@@ -4,7 +4,7 @@ tags: [ArrowPoint, CANbus, Overview]
 keywords: ArrowPoint, CANbus, Overview
 last_updated: November 22, 2019
 summary: 
-sidebar: mydoc_sidebar
+sidebar: arrowpoint_sidebar
 permalink: ArrowCANbus_Overview.html
 folder: ArrowPoint
 ---

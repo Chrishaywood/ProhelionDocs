@@ -3,8 +3,8 @@ title: ArrowPoint Telemetry Reporting
 tags: [ArrowPoint, Telemetry, Reporting]
 keywords: ArrowPoint, Telemetry, Reporting
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "You can then report on that data in real time and across massive datasets of historical data, either in tool of via the Integration with Splunk"
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_Reporting.html
 folder: ArrowPoint
 ---

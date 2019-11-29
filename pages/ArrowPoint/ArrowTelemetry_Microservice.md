@@ -3,8 +3,8 @@ title: ArrowPoint Telemetry Microservice
 tags: [ArrowPoint, Telemetry, Microservice]
 keywords: ArrowPoint, Telemetry, Microservice
 last_updated: November 22, 2019
-summary:
-sidebar: mydoc_sidebar
+summary: "The architecture of the solution is based around Spring Boot and microservices. This allows for simple integration to external systems."
+sidebar: arrowpoint_sidebar
 permalink: ArrowTelemetry_Microservice.html
 folder: ArrowPoint
 ---
