@@ -8,7 +8,7 @@ toc: false
 summary: 
 ---
 
-## Prohelion Docs
+## Prohelion Documents
 
 Welcome to Prohelion Docs.
 
