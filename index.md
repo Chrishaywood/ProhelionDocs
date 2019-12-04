@@ -10,7 +10,7 @@ summary:
 
 ## Prohelion Documentation
 
-Welcome to Prohelion Docs.
+Welcome to Prohelion's documentation repository
 
 Prohelion builds high powered, ultra light weight, mobile energy solutions, to power the vehicles and minds of the future.
 
