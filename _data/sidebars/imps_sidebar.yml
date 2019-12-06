@@ -27,10 +27,10 @@ entries:
       url: /IMPS_landing.html
       output: web
 
-    - title: Sample 1
-      url: /p1_sample1.html
-      output: web, pdf
-
     - title: Sample 2
       url: /p1_sample2.html
+      output: web, pdf
+
+    - title: Sample 3
+      url: /p1_sample3.html
       output: web, pdf
