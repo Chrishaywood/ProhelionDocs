@@ -4,7 +4,7 @@ keywords: sample
 summary: "This is just a sample topic..."
 sidebar: imps_sidebar
 permalink: p1_sample2.html
-folder: product1
+folder: I.M.P.S.
 ---
 
 ## Sample Content
