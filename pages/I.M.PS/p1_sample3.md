@@ -2,7 +2,7 @@
 title: Sample 3 Topic (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: imps_sidebar.html
+sidebar: imps_sidebar
 permalink: p1_sample3.html
 folder: I.M.P.S.
 ---
