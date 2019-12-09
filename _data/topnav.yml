@@ -5,7 +5,7 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/Chrishaywood/ProhelionDocs
-    - title: News
+    - title: Prohelion News
       url: /news.html
 
 #Topnav dropdowns
