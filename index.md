@@ -1,7 +1,7 @@
 ---
 title: "Home"
-keywords: sample homepage
-tags: [getting_started]
+keywords: homepage
+tags:
 sidebar: home_sidebar
 permalink: index.html
 toc: false
