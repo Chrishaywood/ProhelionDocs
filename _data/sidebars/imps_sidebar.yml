@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: Product1
+  product: IMPS
   version: 1.0
   folders:
 
@@ -20,7 +20,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: IMPS
     output: web, pdf
     folderitems:
     - title: Product 1 home
